@@ -1,2 +1,2 @@
 # studing
-studing new tool for data scinse
+studing new tools for data scinse
